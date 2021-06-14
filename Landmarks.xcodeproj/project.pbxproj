@@ -16,6 +16,7 @@
 		94AA78C72677066D000AF70D /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 94AA78C62677066D000AF70D /* landmarkData.json */; };
 		94AA78CB267706B1000AF70D /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AA78CA267706B1000AF70D /* Landmark.swift */; };
 		94AA78CD26770834000AF70D /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AA78CC26770834000AF70D /* ModelData.swift */; };
+		94AA78D226770ADF000AF70D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AA78D126770ADF000AF70D /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		94AA78C62677066D000AF70D /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		94AA78CA267706B1000AF70D /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		94AA78CC26770834000AF70D /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		94AA78D126770ADF000AF70D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				94AA78B526763A42000AF70D /* ContentView.swift */,
 				94AA78C22676CD5D000AF70D /* CircleImage.swift */,
 				94AA78C42676CED8000AF70D /* MapView.swift */,
+				94AA78D126770ADF000AF70D /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				94AA78B426763A42000AF70D /* LandmarksApp.swift in Sources */,
 				94AA78C32676CD5D000AF70D /* CircleImage.swift in Sources */,
 				94AA78CB267706B1000AF70D /* Landmark.swift in Sources */,
+				94AA78D226770ADF000AF70D /* LandmarkRow.swift in Sources */,
 				94AA78CD26770834000AF70D /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
