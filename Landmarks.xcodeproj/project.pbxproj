@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9431216D2682F9A100268959 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9431216C2682F9A100268959 /* HexagonParameters.swift */; };
+		9431216F2682FC8F00268959 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9431216E2682FC8F00268959 /* BadgeBackground.swift */; };
 		94AA78B426763A42000AF70D /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AA78B326763A42000AF70D /* LandmarksApp.swift */; };
 		94AA78B626763A42000AF70D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AA78B526763A42000AF70D /* ContentView.swift */; };
 		94AA78B826763A43000AF70D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94AA78B726763A43000AF70D /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		9431216C2682F9A100268959 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		9431216E2682FC8F00268959 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		94AA78B026763A42000AF70D /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94AA78B326763A42000AF70D /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		94AA78B526763A42000AF70D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				94AA78D92677942F000AF70D /* FavoriteButton.swift */,
 				94AA78C42676CED8000AF70D /* MapView.swift */,
 				94AA78C22676CD5D000AF70D /* CircleImage.swift */,
+				9431216E2682FC8F00268959 /* BadgeBackground.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				9431216D2682F9A100268959 /* HexagonParameters.swift in Sources */,
 				94AA78D426773EB9000AF70D /* LandmarkList.swift in Sources */,
 				94AA78C32676CD5D000AF70D /* CircleImage.swift in Sources */,
+				9431216F2682FC8F00268959 /* BadgeBackground.swift in Sources */,
 				94AA78CB267706B1000AF70D /* Landmark.swift in Sources */,
 				94AA78D226770ADF000AF70D /* LandmarkRow.swift in Sources */,
 				94AA78D8267741F9000AF70D /* LandmarkDetail.swift in Sources */,
